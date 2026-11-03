@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kavyaratnatheganga.co.in/sitemap.xml
+Sitemap: https://giftcitycommercialprojects.com/kavyaratna-the-ganga/sitemap.xml
 
